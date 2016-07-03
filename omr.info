@@ -5,4 +5,6 @@ core = 7.x
 stylesheets[all][] = css/omr.css
 stylesheets[all][] = css/normalize.css
 
+script[] = js/omr.js
+script[] = js/jquery.js
 script[] = js/modernizr.js

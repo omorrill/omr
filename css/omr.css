@@ -1,6 +1,14 @@
 /* FOR DESKTOP/LARGE SCREENS */
+#bg { position: fixed; top: 0; left: 0; }
+.bgwidth { width: 100%; }
+.bgheight { height: 100%; }
+
 #mainwrapper {
-	background: url('../assets/images/snow-covered-mountain.jpg') cover cover no-repeat;
+	background: url('../assets/images/snow-covered-mountain.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 /* FOR TABLETS */

@@ -1,4 +1,6 @@
 <div id="mainwrapper">
+	<img src="http://omorrill.com/sites/default/files/snow-covered-mountain-pixabay.jpg" id="bg" alt="">
+	
 	<?php if (!empty[$header]); ?>
 		<header>
 		
