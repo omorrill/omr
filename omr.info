@@ -1,0 +1,8 @@
+name = Omorrill Responsive
+description = Framework/base themeless responsive theme.
+core = 7.x
+
+stylesheets[all][] = css/omr.css
+stylesheets[all][] = css/normalize.css
+
+script[] = js/modernizr.js
